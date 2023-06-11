@@ -9,4 +9,6 @@ How to:
 1. Add `TabViews` and "tag" them using `enums` for use in switching between views
 2. Filter items from an array using `switch cases`
 3. Generate a `QR Code` from given text strings 
+4. Add a `Swift Package` to the application
+5. Use a `Swift Package` in an app
 
