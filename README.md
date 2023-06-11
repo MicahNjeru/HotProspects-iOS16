@@ -6,5 +6,7 @@
 
 ## What I've learnt
 How to:
-1. 
+1. Add `TabViews` and "tag" them using `enums` for use in switching between views
+2. Filter items from an array using `switch cases`
+3. Generate a `QR Code` from given text strings 
 
